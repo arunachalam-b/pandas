@@ -3,3 +3,4 @@ data/*
 !data/.gitkeep
 data/generated/*
 !data/generated/.gitkeep
+__pycache__/
