@@ -1,1 +1,5 @@
 venv/
+data/*
+!data/.gitkeep
+data/generated/*
+!data/generated/.gitkeep
